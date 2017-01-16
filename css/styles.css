@@ -1,0 +1,12 @@
+#sidebar {
+  padding: 10px;
+  width: 30%;
+  float: right;
+  background-color: yellow;
+  }
+  #sidebar li {
+    margin-bottom: 10px;
+  }
+  .band-bio {
+    float:left;
+  }
